@@ -6,7 +6,7 @@
 
 /* 
  * File:   main.c
- * Author: tioa
+ * Author: Alexandros Ioannidis
  *
  * Created on January 7, 2016, 1:35 PM
  */
