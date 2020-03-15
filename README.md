@@ -1,4 +1,4 @@
-#### Filtering Image Application with OpenMPI and OpenMP.
+#### Filtering Image Application written in C with OpenMPI and OpenMP.
 
 #### 🔷 Sequential code in C  
         ▶️ https://en.cppreference.com/w/
